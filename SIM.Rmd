@@ -146,7 +146,7 @@ con = dbConnect(odbc(),
                  Driver = "MySQL ODBC 8.0 ANSI Driver",
                  Server = "127.0.0.1",
                  UID = "root",
-                 PWD = "SuksesNgajar_01",
+                 PWD = "[masukkan password]",
                  Port = 3306,
                  database = "classicmodels")
 ```
